@@ -1,0 +1,6 @@
+Priority,Action,Owner,Target,Success measure,Evidence
+1,Enforce MFA on business accounts,IT Administrator,Within 7 days,All eligible employee accounts have MFA enforced,Sanitized configuration report showing the coverage percentage
+2,Verify backups and test restoration,IT Administrator,Within 14 days,Systems backed up on a regular basis with all qualifying restoration tests  ,Automated and manual logs backup logs along with restore tests with checklists displaying outcomes of backups and completed restorations
+3,Review employee access permissions,Business Owner,Within 14 days,Permissions access is respectively consistent across every employee ,System panels displaying each employee withpermissions limited to the scope of their respective job
+4,Patch systems and review endpoint protection,IT Administrator,Within 30 days ,Systems are protected from input to endpoint,"Operational records and dashboards with proof of deployed security controls that are active, maintained and consistent"
+5,Deliver phishing awareness training,Operations Manager,Within 30 days ,Every internal stakeholder within the company receives training,Required modules/tangible training with a graded system and scheduled reenforcement 
